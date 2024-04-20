@@ -1,0 +1,5 @@
+//Game/FactoryGame/Resource/Parts/Rubber/Desc_Rubber.Desc_Rubber_C
+{
+"$schema": "https://github.com/budak7273/ContentLib_Documentation/blob/main/JsonSchemas/CL_Item.json",
+"StackSize": "Huge"
+}

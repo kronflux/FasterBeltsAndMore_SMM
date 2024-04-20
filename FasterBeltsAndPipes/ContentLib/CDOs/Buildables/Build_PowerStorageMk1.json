@@ -1,0 +1,20 @@
+{
+  "Class": "/Game/FactoryGame/Buildable/Factory/PowerStorage/Build_PowerStorageMk1.Build_PowerStorageMk1_C",
+  "Edits": [
+{
+"Property": "mDescription",
+"Value": "Storage Capacity: 250 MWh (250 MW for 1 hour)
+Max Charge Rate: 250 MW
+Max Discharge Rate: Unlimited 
+
+Can be connected to a Power Grid to store excess power production. The stored power can be used later in cases of high consumption."
+ },
+{
+"Property": "mPowerStoreCapacity",
+"Value": 250.0
+ },
+{
+"Property": "mPowerInputCapacity",
+"Value": 250.0
+ }]
+}

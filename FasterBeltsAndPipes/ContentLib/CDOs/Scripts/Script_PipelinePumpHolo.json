@@ -1,0 +1,17 @@
+{
+  "Class": "/Script/FactoryGame.FGPipelinePumpHologram",
+  "Edits": [
+    {
+      "Property": "mIndicatorSpeed",
+      "Value": 3000
+    },
+    {
+      "Property": "mMaxTraversalDistance",
+      "Value": 20000
+    },
+    {
+      "Property": "mOffsetEstimationBinaryDivisionCount",
+      "Value": 16
+    }
+  ]
+}

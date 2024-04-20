@@ -1,0 +1,12 @@
+{
+  "Class": "/Game/FactoryGame/Buildable/Factory/-Shared/Holo_PipelinePump.Holo_PipelinePump_C",
+  "Edits": [
+{
+"Property": "mIndicatorSpeed",
+"Value": 3000
+ },
+{
+"Property": "mMaxTraversalDistance",
+"Value": 20000.0
+ }]
+}

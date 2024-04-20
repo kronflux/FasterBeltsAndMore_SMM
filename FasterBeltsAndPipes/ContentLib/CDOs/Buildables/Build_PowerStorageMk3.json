@@ -1,0 +1,20 @@
+{
+  "Class": "/MK22k20/Buildable/PowerStorage/Build_PowerStorageMk3.Build_PowerStorageMk3_C",
+  "Edits": [
+{
+"Property": "mDescription",
+"Value": "Storage Capacity: 450 MWh (450 MW for 1 hour)
+Max Charge Rate: 450 MW
+Max Discharge Rate: Unlimited 
+
+Can be connected to a Power Grid to store excess power production. The stored power can be used later in cases of high consumption."
+ },
+{
+"Property": "mPowerStoreCapacity",
+"Value": 450.0
+ },
+{
+"Property": "mPowerInputCapacity",
+"Value": 450.0
+ }]
+}

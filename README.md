@@ -16,5 +16,16 @@ Things changed:
 -   Mk.2 Pipeline: Changed flow rate from 600m³ to 1200m³
 -   Mk.2 Pipeline Pump: Changed maximum pressure from 50 Meters to 100 Meters
 -   Fluid Buffer: Changed from holding 400m³ to 800m³
+-   Industrial Fluid Buffer: Changed from holding 2400m³ to 4800m³
+-   Personal Storage Box: Changed from 25 Inventory Slots to 48 Inventory Slots
+-   Medical Storage Box: Changed from 25 Inventory Slots to 48 Inventory Slots
+-   Hazard Storage Box: Changed from 25 Inventory Slots to 48 Inventory Slots
 -   Storage Container: Changed from 24 Inventory Slots to 48 Inventory Slots
 -   Industrial Storage Container: Changed from 48 Inventory Slots to 60 Inventory Slots
+-   Biomass Burner: Increased power generation from 30 MW to 60 MW
+-   Power Storage Mk.1: Increase power storage from 100 MW to 250 MW
+-   Pipeline Pumps: Increased Distance and Speed of Flow Indicator Hologram
+-   Mk++: Power Storage Mk.2: Increase power storage from 150 MW to 300 MW
+-   Mk++: Power Storage Mk.3: Increase power storage from 200 MW to 450 MW
+-   Mk++: Power Storage Mk.4: Increase power storage from 2000 MW to 2500 MW
+-   Adjusted stack size for most, if not all items

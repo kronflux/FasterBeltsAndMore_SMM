@@ -1,0 +1,16 @@
+{
+  "Class": "/Game/FactoryGame/Buildable/Factory/StoragePlayer/Build_StorageHazard.Build_StorageHazard_C",
+  "Edits": [
+{
+"Property": "mDescription",
+"Value": "Contains 48 slots for storing large amounts of items."
+ },
+{
+"Property": "mInventorySizeX",
+"Value": 8
+ },
+{
+"Property": "mInventorySizeY",
+"Value": 6
+ }]
+}

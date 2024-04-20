@@ -1,0 +1,8 @@
+{
+  "Class": "/Game/FactoryGame/Buildable/Factory/GeneratorBiomass/Build_GeneratorBiomass.Build_GeneratorBiomass_C",
+  "Edits": [
+{
+"Property": "mPowerProduction",
+"Value": 60.0
+ }]
+}

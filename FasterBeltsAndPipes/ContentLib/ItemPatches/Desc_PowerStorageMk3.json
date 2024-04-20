@@ -1,0 +1,9 @@
+//MK22k20/Buildable/PowerStorage/Desc_PowerStorageMk3.Desc_PowerStorageMk3_C
+{
+"$schema": "https://github.com/budak7273/ContentLib_Documentation/blob/main/JsonSchemas/CL_Item.json",
+"Description": "Storage Capacity: 450 MWh (450 MW for 1 hour)
+Max Charge Rate: 450 MW
+Max Discharge Rate: Unlimited 
+
+Can be connected to a Power Grid to store excess power production. The stored power can be used later in cases of high consumption."
+}

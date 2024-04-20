@@ -1,0 +1,6 @@
+//Game/FactoryGame/Buildable/Factory/StorageContainerMk2/Desc_StorageContainerMk2.Desc_StorageContainerMk2_C
+{
+"$schema": "https://github.com/budak7273/ContentLib_Documentation/blob/main/JsonSchemas/CL_Item.json",
+"Description": "Contains 60 slots for storing large amounts of items.
+Has two inputs and outputs for conveyor belts."
+}

@@ -1,0 +1,5 @@
+//MK22k20/Buildable/QuantumServer/QuantumServer.QuantumServer_C
+{
+"$schema": "https://github.com/budak7273/ContentLib_Documentation/blob/main/JsonSchemas/CL_Item.json",
+"StackSize": "Huge"
+}

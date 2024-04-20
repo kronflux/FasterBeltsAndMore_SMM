@@ -1,0 +1,5 @@
+//Game/FactoryGame/Buildable/Factory/StoragePlayer/Desc_StorageHazard.Desc_StorageHazard_C
+{
+"$schema": "https://github.com/budak7273/ContentLib_Documentation/blob/main/JsonSchemas/CL_Item.json",
+"Description": "Contains 48 slots for storing large amounts of items."
+}
