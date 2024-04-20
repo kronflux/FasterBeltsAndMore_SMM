@@ -4,7 +4,7 @@
 
 #### Works in Multiplayer 
 
-Things changed:
+Changes to Base Game:
 
 -   Mk.1 Conveyor Belt & Conveyor Lift: Changed from 60 Items per Minute to 120 Items per Minute
 -   Mk.2 Conveyor Belt & Conveyor Lift: Changed from 120 Items per Minute to 240 Items per Minute
@@ -23,9 +23,14 @@ Things changed:
 -   Storage Container: Changed from 24 Inventory Slots to 48 Inventory Slots
 -   Industrial Storage Container: Changed from 48 Inventory Slots to 60 Inventory Slots
 -   Biomass Burner: Increased power generation from 30 MW to 60 MW
--   Power Storage Mk.1: Increase power storage from 100 MW to 250 MW
+-   Power Storage Mk.1: Increased power storage from 100 MW to 250 MW
 -   Pipeline Pumps: Increased Distance and Speed of Flow Indicator Hologram
--   Mk++: Power Storage Mk.2: Increase power storage from 150 MW to 300 MW
--   Mk++: Power Storage Mk.3: Increase power storage from 200 MW to 450 MW
--   Mk++: Power Storage Mk.4: Increase power storage from 2000 MW to 2500 MW
 -   Adjusted stack size for most, if not all items
+-   Adjusted Hard Drive research in the MAM to 30 seconds
+
+
+Changes to [Mk++](https://ficsit.app/mod/MK22k20):
+-   Mk++: Power Storage Mk.2: Increased power storage from 150 MW to 300 MW
+-   Mk++: Power Storage Mk.3: Increased power storage from 200 MW to 450 MW
+-   Mk++: Power Storage Mk.4: Increased power storage from 2000 MW to 2500 MW
+-   Mk++: Biomass Burner Mk.2: Increased power generation from 60 MW to 90 MW
