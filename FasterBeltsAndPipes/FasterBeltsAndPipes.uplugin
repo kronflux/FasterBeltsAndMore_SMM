@@ -1,8 +1,8 @@
 {
   "FileVersion": 3,
   "Version": 1,
-  "VersionName": "1.0.3",
-  "SemVersion": "1.0.3",
+  "VersionName": "1.0.5",
+  "SemVersion": "1.0.5",
   "FriendlyName": "FasterBeltsAndPipes",
   "Description": "Faster Belts, Pipes and more Storage slots",
   "Category": "Modding",
