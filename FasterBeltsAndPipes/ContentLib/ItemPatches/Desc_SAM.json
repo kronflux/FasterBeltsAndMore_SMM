@@ -1,0 +1,6 @@
+//Game/FactoryGame/Resource/RawResources/SAM/Desc_SAM.Desc_SAM_C
+{
+"$schema": "https://github.com/budak7273/ContentLib_Documentation/blob/main/JsonSchemas/CL_Item.json",
+"Description": "Strange Alien Metal that glistens with new possibilities.",
+"StackSize": "Huge"
+}
