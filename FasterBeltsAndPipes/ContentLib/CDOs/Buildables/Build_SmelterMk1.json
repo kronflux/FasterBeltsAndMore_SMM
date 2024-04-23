@@ -1,0 +1,8 @@
+{
+  "Class": "/Game/FactoryGame/Buildable/Factory/SmelterMk1/Build_SmelterMk1.Build_SmelterMk1_C",
+  "Edits": [
+{
+"Property": "mManufacturingSpeed",
+"Value": 2.0
+ }]
+}

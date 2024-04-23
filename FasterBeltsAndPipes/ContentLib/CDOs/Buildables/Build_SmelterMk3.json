@@ -1,0 +1,8 @@
+{
+  "Class": "/MK22k20/Buildable/SmelterMk2/Build_SmelterMk3.Build_SmelterMk3_C",
+  "Edits": [
+{
+"Property": "mManufacturingSpeed",
+"Value": 3.5
+ }]
+}

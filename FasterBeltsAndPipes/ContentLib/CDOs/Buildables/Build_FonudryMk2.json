@@ -1,0 +1,8 @@
+{
+  "Class": "/MK22k20/Buildable/FoundryMk2/Build_FonudryMk2.Build_FonudryMk2_C",
+  "Edits": [
+{
+"Property": "mManufacturingSpeed",
+"Value": 2.5
+ }]
+}

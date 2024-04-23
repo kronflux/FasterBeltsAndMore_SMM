@@ -1,0 +1,8 @@
+{
+  "Class": "/MK22k20/Buildable/Blender/Build_BlenderMk2.Build_BlenderMk2_C",
+  "Edits": [
+{
+"Property": "mManufacturingSpeed",
+"Value": 2.5
+ }]
+}

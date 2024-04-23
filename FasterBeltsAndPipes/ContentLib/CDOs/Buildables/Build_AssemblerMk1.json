@@ -1,0 +1,8 @@
+{
+  "Class": "/Game/FactoryGame/Buildable/Factory/AssemblerMk1/Build_AssemblerMk1.Build_AssemblerMk1_C",
+  "Edits": [
+{
+"Property": "mManufacturingSpeed",
+"Value": 2.0
+ }]
+}

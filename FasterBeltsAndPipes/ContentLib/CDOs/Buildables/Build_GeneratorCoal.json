@@ -1,0 +1,8 @@
+{
+  "Class": "/Game/FactoryGame/Buildable/Factory/GeneratorCoal/Build_GeneratorCoal.Build_GeneratorCoal_C",
+  "Edits": [
+{
+"Property": "mPowerProduction",
+"Value": 110.0
+ }]
+}

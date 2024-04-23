@@ -1,0 +1,8 @@
+{
+  "Class": "/Game/FactoryGame/Buildable/Factory/PipeValve/Build_Valve.Build_Valve_C",
+  "Edits": [
+{
+"Property": "mDefaultFlowLimit",
+"Value": 20.0
+ }]
+}

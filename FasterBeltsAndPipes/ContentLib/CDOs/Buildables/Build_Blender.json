@@ -1,0 +1,8 @@
+{
+  "Class": "/Game/FactoryGame/Buildable/Factory/Blender/Build_Blender.Build_Blender_C",
+  "Edits": [
+{
+"Property": "mManufacturingSpeed",
+"Value": 2.0
+ }]
+}

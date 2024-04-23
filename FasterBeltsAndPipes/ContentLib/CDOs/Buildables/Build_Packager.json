@@ -1,0 +1,8 @@
+{
+  "Class": "/Game/FactoryGame/Buildable/Factory/Packager/Build_Packager.Build_Packager_C",
+  "Edits": [
+{
+"Property": "mManufacturingSpeed",
+"Value": 2.0
+ }]
+}

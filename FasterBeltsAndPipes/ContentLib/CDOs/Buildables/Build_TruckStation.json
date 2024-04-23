@@ -1,0 +1,18 @@
+{
+  "Class": "/Game/FactoryGame/Buildable/Factory/TruckStation/Build_TruckStation.Build_TruckStation_C",
+  "Edits": [
+{
+"Property": "mDescription",
+"Value": "Either sends or receives resources to vehicles. Has an inventory with 48 slots.
+Transfers up to 240 stacks per minute to/from docked vehicles. 
+Always refuels vehicles if it has access to a matching fuel type."
+ },
+{
+"Property": "mTransferSpeed",
+"Value": 1.0
+ },
+{
+"Property": "mFuelTransferSpeed",
+"Value": 6.0
+ }]
+}

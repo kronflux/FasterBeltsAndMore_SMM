@@ -1,0 +1,8 @@
+{
+  "Class": "/RefinedPower/Buildables/Factory/AutomatedBiomassGen/Build_AutomatedBiomassGen.Build_AutomatedBiomassGen_C",
+  "Edits": [
+{
+"Property": "mPowerProduction",
+"Value": 60.0
+ }]
+}

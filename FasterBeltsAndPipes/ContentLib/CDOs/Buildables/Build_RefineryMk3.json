@@ -1,0 +1,37 @@
+{
+  "Class": "/MK22k20/Buildable/RefineryMk2/Build_RefineryMk3.Build_RefineryMk3_C",
+  "Edits": [
+{
+"Property": "mPowerConsumption",
+"Value": 60.0
+ },
+{
+"Property": "mPowerConsumptionExponent",
+"Value": 1.321929
+ },
+{
+"Property": "mDoesHaveShutdownAnimation",
+"Value": false
+ },
+{
+"Property": "mMinimumStoppedTime",
+"Value": 5.0
+ },
+{
+"Property": "mDisplayName",
+"Value": "Refinery Mk.3"
+ },
+{
+"Property": "mDescription",
+"Value": "Refines fluids and solids into more usable parts.
+Has a pipe and conveyor belt output to handle potential by-products."
+ },
+{
+"Property": "mHologramClass",
+"Value": "FGFactoryHologram"
+ },
+{
+"Property": "mManufacturingSpeed",
+"Value": 2.0
+ }]
+}

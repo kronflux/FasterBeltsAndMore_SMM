@@ -1,0 +1,8 @@
+{
+  "Class": "/MK22k20/Buildable/ManufacturerMk2/Build_ManufacturerMk2.Build_ManufacturerMk2_C",
+  "Edits": [
+{
+"Property": "mManufacturingSpeed",
+"Value": 2.5
+ }]
+}
