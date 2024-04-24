@@ -1,30 +1,30 @@
 {
-  "FileVersion": 3,
-  "Version": 1,
-  "VersionName": "1.0.5",
-  "SemVersion": "1.0.5",
-  "FriendlyName": "FasterBeltsAndPipes",
-  "Description": "Faster Belts, Pipes and more Storage slots",
-  "Category": "Modding",
-  "CreatedBy": "Flux",
-  "CreatedByURL": "https://ficsit.app/user/AVT4y7fbU3515e",
-  "DocsURL": "",
-  "MarketplaceURL": "https://ficsit.app/mod/EmBK9fhxhQxjs5",
-  "SupportURL": "https://github.com/kronflux/FasterBeltsAndPipes_SMM",
-  "CanContainContent": true,
-  "IsBetaVersion": false,
-  "IsExperimentalVersion": false,
-  "Installed": false,
-  "Plugins": [
-    {
-      "Name": "SML",
-      "Enabled": true,
-      "SemVersion": "^3.7.0"
-    },
-   {
-      "Name": "ContentLib",
-      "Enabled": true,
-      "SemVersion": ">=1.4.0"
-    }
-  ]
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.6",
+	"FriendlyName": "FasterBeltsAndMore",
+	"Description": "Faster Belts, More Storage slots, Faster Machines, Bigger Stack Sizes, and more!",
+	"Category": "Modding",
+	"CreatedBy": "kronflux",
+	"CreatedByURL": "https://ficsit.app/user/AVT4y7fbU3515e",
+	"DocsURL": "",
+	"MarketplaceURL": "https://ficsit.app/mod/6cWfnrJfUiUFuU",
+	"SupportURL": "https://github.com/kronflux/FasterBeltsAndMore_SMM",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.7.0"
+		},
+		{
+			"Name": "ContentLib",
+			"Enabled": true,
+			"SemVersion": "^1.4.0"
+		}
+	],
+	"SemVersion": "1.0.6"
 }
