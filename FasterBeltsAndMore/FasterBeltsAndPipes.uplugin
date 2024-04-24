@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.6",
+	"VersionName": "1.0.7",
 	"FriendlyName": "FasterBeltsAndMore",
 	"Description": "Faster Belts, More Storage slots, Faster Machines, Bigger Stack Sizes, and more!",
 	"Category": "Modding",
@@ -26,5 +26,5 @@
 			"SemVersion": "^1.4.0"
 		}
 	],
-	"SemVersion": "1.0.6"
+	"SemVersion": "1.0.7"
 }
